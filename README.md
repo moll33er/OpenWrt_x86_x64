@@ -1,5 +1,25 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+# Custom Setting (.config)
+## Image
+x86_64
+set iamge size 512M
+## Package
+* open-clash
+* adbyby-plus
+* ssr
+* trojan (go)
+* socket server
+* socket proxy
+* ddns
+* frpc
+* vpnd
+* samb4
+* ssr-plus
+* xray
+* bbr
+* UblockNeteaseMusic Golang
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
